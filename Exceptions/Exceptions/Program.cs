@@ -40,6 +40,8 @@ namespace Exceptions
                 Console.WriteLine(a.Message + a.GetType());
             }
             //sau putem pune doar Exception e, si cuprinde toate exceptiile
+
+            
           
         }
     }
